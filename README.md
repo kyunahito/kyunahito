@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyunahito
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning HTML/CSS, JavaScript, Python
+- 🌱 I’m currently learning JavaScript, Python, Kotlin and Switft
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
