@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kyunahito
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning JavaScript, Python, Kotlin and Switft
-- 💞️ I’m looking to collaborate on Kotlin and Swift
+- 💞️ I’m looking to collaborate on Kotlin and Swift Developers
 - 📫 How to reach me [Discord]devrnull#3067
 <!---
 kyunahito/kyunahito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
